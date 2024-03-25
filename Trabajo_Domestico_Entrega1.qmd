@@ -1,5 +1,5 @@
 ---
-title: "Trabajo__1"
+title: "Trabajo___1"
 author: "Dana Carrasco"
 format: html
 editor: visual
